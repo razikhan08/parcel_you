@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "891129525885",
+    "firebase_url": "https://parcelyou-e2594-default-rtdb.firebaseio.com",
+    "project_id": "parcelyou-e2594",
+    "storage_bucket": "parcelyou-e2594.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891129525885:android:29625d072eecab023e6314",
+        "android_client_info": {
+          "package_name": "com.parcelyou.parcel_you"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891129525885-0dsfeb30c84d1o171kcfop43iigpb5l2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.parcelyou.parcel_you",
+            "certificate_hash": "b87d48dac3c040035489b8d2507265915404ff4a"
+          }
+        },
+        {
+          "client_id": "891129525885-hcq91lb498rcm7ht28d9tlqnqi23shos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGjgS2mcbQVBjVBNmdTTOntdDfTTZtKWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891129525885-hcq91lb498rcm7ht28d9tlqnqi23shos.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "891129525885-g2pktm52rr0svfrfqgld1qu6r17r1k45.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.parcelyou.parcelYou"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
